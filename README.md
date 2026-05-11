@@ -1,4 +1,4 @@
-````md
+
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3000&pause=1200&color=00D9FF&center=true&vCenter=true&width=900&height=70&lines=Hey%2C+I'm+Mark+Paul;Java+%26+Spring+Boot+Engineer;Spring+AI+%7C+LangChain4j+%7C+Kafka;Building+AI-Powered+Healthcare+Systems;Backend+Architecture+%7C+Deep+Learning+%7C+Kotlin;Next.js+%7C+React+%7C+Computer+Vision" />
