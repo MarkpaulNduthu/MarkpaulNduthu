@@ -75,6 +75,9 @@ Working on production enterprise systems using modern frontend and fullstack arc
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&labelColor=0d1117)
 ![Deep Learning](https://img.shields.io/badge/Deep_Learning-8A2BE2?style=flat-square&labelColor=0d1117)
 ![CNNs](https://img.shields.io/badge/CNNs-00D9FF?style=flat-square&labelColor=0d1117)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=0d1117)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white&labelColor=0d1117)
+
 
 ### Frontend & Mobile
 
