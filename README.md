@@ -47,7 +47,7 @@ Working on production enterprise systems using modern frontend and fullstack arc
 
 - Enterprise ERP systems with **Next.js** and scalable frontend architectures
 - Collaborative development on real-world, production-grade business platforms
-- Expanding the organization's capabilities into AI-native backend engineering and distributed systems
+- Expanding the organization's capabilities into AI-native systems and distributed systems
 
 ---
 
