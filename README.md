@@ -22,14 +22,14 @@
 
 ```yaml
 name        : Markpaul Nduthu
-role        : Java Backend Engineer · AI & Distributed Systems
+role        : Java Backend Engineer ● AI & Distributed Systems
 location    : Kenya
 employer    : ANED Development Center — Software Engineer
 
-core        : Java · Spring Boot · Spring AI · LangChain4j
-distributed : Apache Kafka · Microservices · Event-Driven Architecture
-ai          : LLM Integration · Deep Learning · Computer Vision
-frontend    : Next.js · React
+core        : Java ● Spring Boot ● Spring AI ● LangChain4j
+distributed : Apache Kafka ● Microservices ● Event-Driven Architecture
+ai          : LLM Integration ● Deep Learning ● Computer Vision
+frontend    : Next.js ● React
 mobile      : Kotlin Android
 
 philosophy  : Learn ● Build ● Improve
