@@ -1,6 +1,12 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1200&color=00D9FF&center=true&vCenter=true&width=900&height=65&lines=Mark+Paul+Mwema;Java+Backend+Engineer;AI+%26+Distributed+Systems;Building+Systems+That+Matter" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00D9FF&height=120&section=header&animation=fadeIn" />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=1200&color=00D9FF&center=true&vCenter=true&width=900&height=70&lines=Markpaul+Nduthu;Java+Backend+Engineer;AI+%26+Distributed+Systems;Building+Systems+That+Matter" />
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=14&duration=4000&pause=1000&color=8B949E&center=true&vCenter=true&width=800&height=28&lines=Spring+Boot+%7C+Spring+AI+%7C+LangChain4j+%7C+Apache+Kafka;Microservices+%7C+Event-Driven+Architecture+%7C+Deep+Learning;Healthcare+AI+%7C+Computer+Vision+%7C+Human+Performance+Systems" />
 
 <br/>
 
@@ -15,7 +21,7 @@
 ## About
 
 ```yaml
-name        : Mark Paul Mwema
+name        : Markpaul Nduthu
 role        : Java Backend Engineer · AI & Distributed Systems
 location    : Kenya
 employer    : ANED Development Center — Software Engineer
@@ -118,6 +124,16 @@ Working on production enterprise systems using modern frontend and fullstack arc
 
 ---
 
+## Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MarkpaulNduthu&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true" />
+
+</div>
+
+---
+
 ## What I'm Building Toward
 
 The intersection of Java backend engineering, distributed systems, and applied AI is where I operate. Most of my production work is private by nature — enterprise systems, healthcare platforms, and AI pipelines built for real use cases.
@@ -138,7 +154,7 @@ What I'm working toward publicly:
 <div align="center">
 
 <a href="https://www.linkedin.com/in/markpaul-mwema-1b35921b6/">
-<img src="https://img.shields.io/badge/LinkedIn-Mark_Paul_Mwema-0077B5?style=flat-square&logo=linkedin&logoColor=white&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/LinkedIn-Markpaul_Nduthu-0077B5?style=flat-square&logo=linkedin&logoColor=white&labelColor=0d1117" />
 </a>
 &nbsp;
 <a href="https://github.com/MarkpaulNduthu">
@@ -151,8 +167,6 @@ What I'm working toward publicly:
 
 </div>
 
----
+<br/>
 
-<div align="center">
-<sub>Java backend · AI systems · Distributed architecture · Built for impact</sub>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00D9FF&height=100&section=footer&animation=fadeIn" />
