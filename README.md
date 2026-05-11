@@ -32,9 +32,7 @@ ai          : LLM Integration · Deep Learning · Computer Vision
 frontend    : Next.js · React
 mobile      : Kotlin Android
 
-currently   : Building AI-powered healthcare & human performance systems
-learning    : CNNs · Advanced AI Engineering · Scalable Architectures
-philosophy  : Constantly learning to engineer systems that improve human life
+philosophy  : Learn ● Build ● Improve
 ```
 
 ---
