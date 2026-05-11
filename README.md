@@ -5,15 +5,15 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=15&duration=4000&pause=1000&color=8B949E&center=true&vCenter=true&width=850&height=30&lines=Spring+Boot+Specialist+%7C+AI+Systems+Engineer+%7C+Healthcare+Technology;Distributed+Systems+%7C+Event-Driven+Architecture+%7C+ML+Pipelines;Kotlin+Supported+Backend+Engineering+%7C+React+%26+Next.js+Frontend" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=15&duration=4000&pause=1000&color=8B949E&center=true&vCenter=true&width=850&height=30&lines=Spring+Boot+Specialist+%7C+AI+Systems+Engineer+%7C+Healthcare+Technology;Distributed+Systems+%7C+Event-Driven+Architecture+%7C+ML+Pipelines;Kotlin+Mobile+App+Development+%7C+React+%26+Next.js+Frontend" />
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE+VIEWS&color=00d9ff&style=for-the-badge&labelColor=0d1117" />
+<img src="https://komarev.com/ghpvc/?username=MarkpaulNduthu&label=PROFILE+VIEWS&color=00d9ff&style=for-the-badge&labelColor=0d1117" />
 
-<img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&color=00d9ff&labelColor=0d1117" />
+<img src="https://img.shields.io/github/followers/MarkpaulNduthu?style=for-the-badge&color=00d9ff&labelColor=0d1117" />
 
-<img src="https://img.shields.io/github/stars/YOUR_USERNAME?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=00d9ff&labelColor=0d1117" />
+<img src="https://img.shields.io/github/stars/MarkpaulNduthu?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=00d9ff&labelColor=0d1117" />
 
 </div>
 
@@ -82,8 +82,6 @@ philosophy  : Build technology that improves human life
 ## 🤖 AI · Deep Learning · Computer Vision
 
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=0d1117" />
-
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=0d1117" />
 
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white&labelColor=0d1117" />
 
@@ -181,13 +179,13 @@ Exploring scalable distributed systems with:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&include_all_commits=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarkpaulNduthu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&include_all_commits=true&count_private=true" />
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d9ff&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff" />
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=MarkpaulNduthu&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d9ff&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff" />
 
 <br/><br/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarkpaulNduthu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9" />
 
 </div>
 
@@ -197,7 +195,7 @@ Exploring scalable distributed systems with:
 
 <div align="center">
 
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake-dark.svg)
+![snake gif](https://github.com/MarkpaulNduthu/MarkpaulNduthu/blob/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
@@ -252,4 +250,3 @@ Building intelligent systems that combine:
 🚀 Built for impact
 
 </div>
-```
