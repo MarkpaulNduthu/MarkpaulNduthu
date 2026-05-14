@@ -86,14 +86,14 @@ philosophy  : Learn ● Build ● Improve
 
 | Area | Depth |
 |------|-------|
-| **Backend Engineering** | Spring Boot · Secure REST APIs · Multi-tenant architecture |
+| **Backend Engineering** | Spring Boot · Secure REST APIs |
 | **AI Engineering** | Spring AI · LangChain4j · LLM integration & orchestration |
-| **Distributed Systems** | Kafka · Async processing · Transactional outbox pattern |
+| **Distributed Systems** | Kafka · Async processing |
 | **Deep Learning** | CNNs · TensorFlow · Model training & inference pipelines |
 | **Computer Vision** | MediaPipe · OpenCV · Pose estimation & real-time analysis |
 | **Frontend** | Next.js · React · Fullstack applications |
-| **Mobile** | Kotlin Android · Healthcare-focused apps |
-| **Architecture** | Microservices · Clean architecture · Event-driven systems |
+| **Mobile** | Kotlin Android |
+| **Architecture** | Microservices · MVVM architecture · Event-driven systems |
 
 ---
 
