@@ -58,7 +58,7 @@ philosophy  : Learn ● Build ● Improve
 
 ### AI · Deep Learning · Computer Vision
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white&labelColor=0d1117)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white&labelColor=0d1117)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white&labelColor=0d1117)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&labelColor=0d1117)
 ![Deep Learning](https://img.shields.io/badge/Deep_Learning-8A2BE2?style=flat-square&labelColor=0d1117)
